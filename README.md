@@ -1,1 +1,2 @@
 # simforgeGUIHelper
+chatgptすごいね
